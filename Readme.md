@@ -10,11 +10,10 @@ Living with multiple calendars cause confusion and duplications
 ## Roadmap
 
 ~~MVP 1 (done):~~
-- List events from a calendar (done)
-- Show compact and comfortable list (done)
-- Show all day events and endsOnSameDay events (done)
-- Show all events from calendar(done)
-
+- ~~List events from a calendar (done)~~
+- ~~Show compact and comfortable list (done)~~
+- ~~Show all day events and endsOnSameDay events (done)~~
+- ~~Show all events from calendar(done)~~
 MVP 2:
 - Allow user parameters
 - Allow filtering events for today
